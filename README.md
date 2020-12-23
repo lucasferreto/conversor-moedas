@@ -1,6 +1,6 @@
 # conversor_moedas
 
-A new Flutter project.
+Aplicativo simples desenvolvido em Flutter para conversão de Dolar(USD) e Euro(EUR) em Real(BRL).
 
 ## Getting Started
 
